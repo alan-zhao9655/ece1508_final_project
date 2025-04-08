@@ -1,0 +1,18 @@
+# Virtual environment
+myenv/
+
+# PyTorch model files
+*.pt
+
+# MingPT folder
+mingpt/
+
+# MovieLens datasets
+ml-latest/
+ml-latest-small/
+
+# Environment variables
+.env
+
+# PDF files
+*.pdf
