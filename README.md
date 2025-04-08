@@ -99,9 +99,6 @@ project/
 ## Conclusion
 While traditional recommendation methods provide a quantifiable baseline, LLM-based approaches demonstrate superior ability to generate personalized, contextual, and explainable recommendations. The OpenAI API offers the highest quality recommendations currently, but fine-tuned models show promise for cost-effective deployments.
 
-## Contributors
-- [Your Name]
-- [Team Members]
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
