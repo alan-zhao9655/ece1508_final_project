@@ -862,8 +862,8 @@ def main(skip_training=False):
         model, tokenizer = train_lora_model(
             train_loader=train_loader,
             val_loader=val_loader,
-            base_model_name="gpt4",
-            epochs=10,  # Increased epochs
+            base_model_name="gpt2",
+            epochs=10,
             learning_rate=2e-4
         )
     else:
