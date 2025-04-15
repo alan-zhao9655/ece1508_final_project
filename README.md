@@ -60,26 +60,6 @@ psychological depth."
 3. **Advanced Fine-tuning:** Experiment with larger models and domain-specific fine-tuning techniques
 4. **Hybrid Systems:** Combine the precision of traditional algorithms with the reasoning capabilities of LLMs
 
-## Project Structure
-```
-project/
-├── data/
-│   └── ml-latest-small/         # MovieLens dataset files
-├── models/
-│   ├── baseline_models.py       # Traditional recommendation models
-│   ├── llm_finetuning.py        # GPT-2 fine-tuning implementation
-│   └── openai_recommender.py    # OpenAI API recommendation system
-├── notebooks/
-│   ├── data_exploration.ipynb   # Dataset analysis
-│   └── model_comparison.ipynb   # Results comparison
-├── results/
-│   ├── baseline_metrics.json    # Performance metrics for traditional models
-│   ├── openai_recommendations.json  # OpenAI-generated recommendations
-│   └── gpt2_recommendations.json    # Fine-tuned GPT-2 recommendations
-├── requirements.txt
-└── README.md
-```
-
 ## Requirements
 - Python 3.8+
 - PyTorch
