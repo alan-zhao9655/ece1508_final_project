@@ -1,0 +1,11 @@
+User 3 has watched and enjoyed the following movies:
+- Escape from L.A. (1996), rated 5.0/5. The user absolutely loves this movie. Genres: Action | Adventure | Sci-Fi | Thriller.
+- Saturn 3 (1980), rated 5.0/5. The user considers this a masterpiece. Genres: Adventure | Sci-Fi | Thriller.
+- Road Warrior, The (Mad Max 2) (1981), rated 5.0/5. The user absolutely loves this movie. Genres: Action | Adventure | Sci-Fi | Thriller.
+- The Lair of the White Worm (1988), rated 5.0/5. The user absolutely loves this movie.
+- Hangar 18 (1980), rated 5.0/5. This is one of the user's all-time favorites. Genres: Action | Sci-Fi | Thriller.
+- Galaxy of Terror (Quest) (1981), rated 5.0/5. This is one of the user's all-time favorites. Genres: Action | Horror | Mystery | Sci-Fi.
+- Android (1982), rated 5.0/5. The user considers this a masterpiece. Genres: Sci-Fi.
+- Alien Contamination (1980), rated 5.0/5. The user absolutely loves this movie.
+
+Based on these preferences, I recommend:

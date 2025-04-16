@@ -71,9 +71,9 @@ psychological depth."
 ## Usage
 1. Install dependencies: `pip install -r requirements.txt`
 2. Download MovieLens dataset (ml-latest-small)
-3. Run traditional models: `python models/baseline_models.py`
-4. Fine-tune GPT-2: `python models/llm_finetuning.py`
-5. Generate OpenAI recommendations: `python models/openai_recommender.py --use_openai --num_openai_users 5`
+3. Run traditional models: `python baseline.py`
+4. Fine-tune GPT-2: `python fine_tune.py`
+5. Generate OpenAI recommendations: `python openai_movie_recommender.py`
 6. Compare results in the provided notebooks
 
 ## Conclusion
